@@ -1,4 +1,4 @@
-# Confusion-Matrix-DIO
+# Confusion-Matrix
 
 Este repositório contém um exemplo de aplicação prática de visualização e análise de métricas de classificação usando uma matriz de confusão, projetado para ser executado no Google Colab. O código utiliza o dataset MNIST para treinar uma rede neural convolucional simples e avalia o desempenho do modelo com base em diversas métricas extraídas da matriz de confusão.  
 <br>
